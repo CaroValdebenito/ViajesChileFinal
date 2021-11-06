@@ -15,6 +15,4 @@ $(function () {
   
     $('[data-toggle="tooltip"]').tooltip();
 
-    alert ("Bienvenidos")
-  
-alert("Mi primer alert");
+ 
