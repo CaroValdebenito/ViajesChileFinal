@@ -17,3 +17,4 @@ $(function () {
 
     alert ("Bienvenidos")
   
+alert("Mi primer alert");
